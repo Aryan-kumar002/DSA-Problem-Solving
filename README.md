@@ -39,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0190-reverse-bits) |
+## Math
+|  |
+| ------- |
+| [0507-perfect-number](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0507-perfect-number) |
 <!---LeetCode Topics End-->
