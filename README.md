@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0032-longest-valid-parentheses) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0022-generate-parentheses) |
 ## Greedy
 |  |
