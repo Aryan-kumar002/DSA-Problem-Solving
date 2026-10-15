@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0146-lru-cache](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0146-lru-cache) |
 | [0349-intersection-of-two-arrays](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0383-ransom-note) |
 ## Two Pointers
@@ -102,8 +103,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0021-merge-two-sorted-lists) |
+| [0146-lru-cache](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0021-merge-two-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
