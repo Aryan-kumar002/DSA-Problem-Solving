@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0507-perfect-number](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0507-perfect-number) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## String
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Enumeration
 |  |
