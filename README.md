@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0274-h-index](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0146-lru-cache](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0146-lru-cache) |
 | [0349-intersection-of-two-arrays](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
