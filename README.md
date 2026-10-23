@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0046-permutations](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0046-permutations) |
 | [0274-h-index](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0046-permutations) |
 ## Greedy
 |  |
 | ------- |
