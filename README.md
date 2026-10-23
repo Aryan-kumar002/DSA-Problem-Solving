@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0046-permutations) |
+| [0209-minimum-size-subarray-sum](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0274-h-index](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -143,4 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
