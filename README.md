@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0046-permutations) |
 | [0274-h-index](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting Sort
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0146-lru-cache](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0146-lru-cache) |
 | [0349-intersection-of-two-arrays](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0409-longest-palindrome) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -42,10 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
