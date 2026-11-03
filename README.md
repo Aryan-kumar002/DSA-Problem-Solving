@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0507-perfect-number) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
 |  |
 | ------- |
