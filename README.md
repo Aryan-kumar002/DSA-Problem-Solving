@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0061-rotate-list) |
 | [0146-lru-cache](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0146-lru-cache) |
+| [0707-design-linked-list](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0707-design-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0146-lru-cache) |
+| [0707-design-linked-list](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0707-design-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
