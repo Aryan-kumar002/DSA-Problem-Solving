@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0061-rotate-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0061-rotate-list) |
 | [0146-lru-cache](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
