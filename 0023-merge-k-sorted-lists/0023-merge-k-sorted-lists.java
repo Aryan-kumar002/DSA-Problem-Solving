@@ -18,7 +18,7 @@ class Solution {
                 pq.add(node);
             }
         }
-        ListNode dummy = new ListNode();
+        ListNode dummy = new ListNode(0);
         ListNode curr = dummy;
         while(!pq.isEmpty()){
             ListNode smallest = pq.poll();
