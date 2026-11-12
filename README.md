@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0023-merge-k-sorted-lists) |
 | [0190-reverse-bits](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0190-reverse-bits) |
 ## Bit Manipulation
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0061-rotate-list) |
 | [0146-lru-cache](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0146-lru-cache) |
 | [0707-design-linked-list](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0707-design-linked-list) |
@@ -193,4 +195,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0496-next-greater-element-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
