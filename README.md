@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0032-longest-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0856-score-of-parentheses) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [1254-number-of-closed-islands](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
@@ -218,8 +220,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
