@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0682-baseball-game) |
 | [1254-number-of-closed-islands](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/1254-number-of-closed-islands) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
@@ -230,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
