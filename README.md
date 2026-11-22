@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0061-rotate-list) |
+| [0143-reorder-list](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0496-next-greater-element-i) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0061-rotate-list) |
+| [0143-reorder-list](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0148-sort-list) |
 | [0707-design-linked-list](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0707-design-linked-list) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0143-reorder-list) |
 ## Design
 |  |
 | ------- |
