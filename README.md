@@ -76,10 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0190-reverse-bits) |
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0067-add-binary) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0507-perfect-number) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0032-longest-valid-parentheses) |
+| [0067-add-binary](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
@@ -241,5 +244,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/Aryan-kumar002/DSA-Problem-Solving/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
